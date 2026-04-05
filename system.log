@@ -1,0 +1,10 @@
+INFO: sensors online
+WARNING: latency spike detected
+ERROR: camera feed lost
+ERROR: connection timeout
+INFO: System started
+WARNING: High memory usage
+ERROR: Camera disconnected
+INFO: Reconnecting camera
+ERROR: Network timeout
+ERROR: Live failure
